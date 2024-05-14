@@ -14,6 +14,10 @@ public class A {
 	{
 		System.out.println("branch new");
 	}
+	public void Direct()
+	{
+		System.out.println("direct");
+	}
 	public static void main(String[] args) {
 
 		System.out.println("This is Git Project");
