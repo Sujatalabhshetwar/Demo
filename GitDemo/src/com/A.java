@@ -10,6 +10,10 @@ public class A {
 	{
 		System.out.println("m2");
 	}
+	public void Branch new()
+	{
+		System.out.println("branch new");
+	}
 	public static void main(String[] args) {
 
 		System.out.println("This is Git Project");
