@@ -14,6 +14,10 @@ public class A {
 	{
 		System.out.println("m3 Branch 1");
 	}
+	public void m4()
+	{
+		System.out.println("m4 Branch 2");
+	}
 	public static void main(String[] args) {
 
 		System.out.println("This is Git Project");
